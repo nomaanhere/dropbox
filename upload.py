@@ -5,7 +5,7 @@ from dropbox.files import WriteMode
 from dropbox.exceptions import ApiError, AuthError
 
 # Access token
-TOKEN = 'oG7g0mYYCfAAAAAAAAAACuBzidmIGZBUfy1U4tx2wSA7wW4mQt3CodpDet_nMkqL'
+TOKEN = '****************'
 
 LOCALFILE = 'C:\\tensorflow1\\models\\research\\object_detection\\inference_graph\\frozen_inference_graph.pb'
 BACKUPPATH = '/frozen_inference_graph.pb' # Keep the forward slash before destination filename
