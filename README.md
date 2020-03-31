@@ -1,18 +1,21 @@
 # dropbox
 Dropbox API with Python to Upload &amp; Download files by generating Access Keys.
 <br>
+<br>
 Pre-requisites
+<br>
 Python 2.7/3.5/3.6 and above
 <br>
+<br>
 Install libraries
+<br>
 <code> pip install dropbox </code>
+<br>
 <br>
 
 Utility:
 <pre><code> git clone https://www.github.com/nomaanhere/dropbox.git </code></pre>
-go to command prompt <code>pip install dropbox</code>
-
-
+<br>
 In order to download file:
-Open Command Prompt 
-<code> cd </cd> to the corresponding directory where <code>downloadfile.py</code> is kept and type <code>Python downloadfile.py</code>
+Open Command Prompt <br>
+<code> cd </cd> to the corresponding directory where <code>downloadfile.py</code> is stored and type <code>Python downloadfile.py</code>
